@@ -54,24 +54,6 @@ Currently exploring **Large Language Models (LLMs)**, **Retrieval-Augmented Gene
 
 ---
 
-## 🧩 Featured Projects
-
-### ⚖️ **Legal RAG Chatbot**
-> 🧠 *AI-Powered Legal Assistant*  
-Retrieval-Augmented Generation chatbot answering Indian legal queries using **Mistral-7B** + **MiniLM embeddings** with **FAISS** indexing and **Gradio UI**.  
-🔧 *Tech:* Python, Hugging Face, FAISS, Flask, Gradio  
-
-### 🛒 **Smart Product Pricing (Amazon ML Hackathon 2025)**
-> 📊 *Predictive Price Estimation*  
-Developed a hybrid ML pipeline combining structured features and TF-IDF embeddings to predict e-commerce prices. Achieved **SMAPE ≈ 59.6%** using optimized **LightGBM**.  
-🔧 *Tech:* Python, Scikit-learn, LightGBM, Pandas, NumPy  
-
-*(More projects on the way!)*
-
----
-
 ## 🌈 Live Demo
 🔗 **Visit Now:** [https://divya-portfolio-beta.vercel.app](https://divya-portfolio-beta.vercel.app)  
-*(Hosted on Vercel with automatic GitHub integration and continuous deployment)*  
-
----
+ 
