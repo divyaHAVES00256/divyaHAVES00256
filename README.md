@@ -48,8 +48,8 @@ Currently exploring **Large Language Models (LLMs)**, **Retrieval-Augmented Gene
 |:-------|:--------------|
 | 🧠 **Machine Learning** | Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, Matplotlib |
 | 🧬 **Natural Language Processing** | Hugging Face, Transformers, FAISS, SentenceTransformers |
-| 💻 **Web Development** | React, Vite, Flask (backend in progress), REST APIs |
-| 🧰 **Utilities & Tools** | Git, VS Code, Colab, Postman, Linux |
+| 💻 **Web Development** | React, Flask (backend in progress), REST APIs |
+| 🧰 **Utilities & Tools** | Git, VS Code, Colab, Postman |
 | ☁️ **Cloud / Deployment** | Vercel, Netlify, GitHub Pages, Docker *(learning)* |
 
 ---
